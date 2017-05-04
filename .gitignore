@@ -1,2 +1,8 @@
-.xml
-.class
+#ignore these files
+*.xml
+*.class
+*.iml
+
+#ignore these directories
+.idea/
+out/
