@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="GBK">
+    <file url="jar://$PROJECT_DIR$/RuPengGame.jar!/com/rupeng/game/AsyncAudioPlayer.java" charset="GBK" />
+    <file url="jar://$PROJECT_DIR$/RuPengGame.jar!/com/rupeng/game/GameCore.java" charset="GBK" />
+    <file url="jar://$PROJECT_DIR$/RuPengGame.jar!/com/rupeng/game/GameDialog.java" charset="GBK" />
+    <file url="jar://$PROJECT_DIR$/RuPengGame.jar!/com/rupeng/game/GameUtils.java" charset="GBK" />
+    <file url="jar://$PROJECT_DIR$/RuPengGame.jar!/com/rupeng/game/PictureBox.java" charset="GBK" />
+    <file url="jar://$PROJECT_DIR$/RuPengGame.jar!/com/rupeng/game/SpriteView.java" charset="GBK" />
+  </component>
+</project>
